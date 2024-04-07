@@ -175,5 +175,5 @@ while True:
         i=i+1
         unix_timestamp_midnight = increment_unix_timestamp(unix_timestamp_midnight)
 
-    # time.sleep(30)
+    time.sleep(60)
     unix_timestamp_midnight = get_unix_timestamp_midnight()

@@ -1,0 +1,4 @@
+{
+  "res_human_url" : "https://www.calendis.ro/cluj-napoca/baza-sportiva-gheorgheni/tenis/s",
+  "base_request_url" : "https://www.calendis.ro/api/get_available_slots?service_id=8029&location_id=1651&date="
+}

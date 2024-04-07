@@ -1,0 +1,7 @@
+{
+  "email_address" : "sender email here",
+  "app_password" : "app password for sender email ( if using GMAIL - must have 2-step auth )",
+  "recipients" : ["who should receive the email"],
+  "smtp_server" : "smtp email server : ex. for gmail is smtp.gmail.com",
+  "header_file_path" : "header_files/header_file_1.txt"
+}

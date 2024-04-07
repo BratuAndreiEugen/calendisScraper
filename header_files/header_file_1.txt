@@ -2,7 +2,7 @@ Accept: */*
 Accept-Encoding: gzip, deflate, br, zstd
 Accept-Language: en-US,en;q=0.9,ro-RO;q=0.8,ro;q=0.7
 Connection: keep-alive
-Cookie: cookie_message=0; _ga=GA1.2.254243518.1710012124; _hjSessionUser_550775=eyJpZCI6IjVlODMyNjJmLWI4ODUtNTMwMy1hMjJjLTcxZmUyNjk2MGYyOSIsImNyZWF0ZWQiOjE3MTAwMTIxMjQzNTYsImV4aXN0aW5nIjp0cnVlfQ==; _gid=GA1.2.2005689795.1712305740; _hjSession_550775=eyJpZCI6ImJiMTdjODkyLTE4OTktNDMwZC1iNGUzLTE4N2Y4YjZmZDM5NyIsImMiOjE3MTIzMTAzOTg2MTYsInMiOjEsInIiOjEsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=; client_session=59ccfd1dbd16a96066dad6728050ccd80a0b6c0f; _ga_143JFZWTPG=GS1.2.1712310398.6.1.1712310420.38.0.0
+Cookie: cookie_message=0; _ga=GA1.2.254243518.1710012124; _hjSessionUser_550775=eyJpZCI6IjVlODMyNjJmLWI4ODUtNTMwMy1hMjJjLTcxZmUyNjk2MGYyOSIsImNyZWF0ZWQiOjE3MTAwMTIxMjQzNTYsImV4aXN0aW5nIjp0cnVlfQ==; _gid=GA1.2.391197987.1712490607; _gat=1; _gat_UA-48482636-4=1; _hjSession_550775=eyJpZCI6Ijg2M2UzYzBiLTE1MTQtNGNjZC05MDY0LWZmNDEzN2EwYTczZiIsImMiOjE3MTI0OTA2MDcxNjMsInMiOjEsInIiOjEsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=; client_session=5e7366f9ec64c6c1d5ff815f46eb1c4647e65ee1; _ga_143JFZWTPG=GS1.2.1712490607.7.1.1712490621.46.0.0
 Host: www.calendis.ro
 Referer: https://www.calendis.ro/cluj-napoca/baza-sportiva-gheorgheni/tenis/s
 Sec-Fetch-Dest: empty

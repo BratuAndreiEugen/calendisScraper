@@ -1,0 +1,10 @@
+1. Log in pe calendis ( Trebuie sa fi logat !! )
+2. Du-te la Baza Gheorgheni la tenis ( pentru alt sport si alta baza - pasul 8 )
+3. Da inspect si du-te la "Network"
+4. Da click pe o data din lista pe pagina web ( asta trimite request )
+5. Pe request ( in tabul "Network" ) in sectiunea Headers da scroll la "Request Headers" si selecteaza optionea "Raw"
+6. Copiaza toate headerele ( atentie prima linie e request-ul - nu copia aceasta linie )
+    si muta-le in "header_files/header_file_1.txt"
+7. Configureaza "generalConfig.json" cu email-ul cu care vr sa trimiti, mail-urile care primesc si server-ul de mail
+8(OPTIONAL). Aplicatia este configurata doar pentru Gheorgheni-Tenis. Daca vrei alta locatie sau alt sport
+atunci trebuie sa faci propriul config dupa modelu "configs/gheorgheniConfig.json"
